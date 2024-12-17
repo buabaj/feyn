@@ -1,0 +1,8 @@
+pytest
+ruff
+mypy
+pytest-cov
+openai
+pyaudio
+python-dotenv
+numpy
