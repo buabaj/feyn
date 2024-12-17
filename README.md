@@ -78,16 +78,15 @@ python src/feyn.py -t "DNA Sequencing" -m standard -r
 
 ## Todo
 
-[x]  Speech recognition with OpenAI Whisper
-[x]  Multiple learning modes (standard, quiz, challenge)
-[x]  Text input option
-[x]  Basic session transcripts
-[x]  Session reports
-[x]  Real-time audio level indicator
-[ ]  Visual concept mapping
-[ ]  Terminal UI with rich formatting
-[ ]  Web interface
-[ ]  Export to different formats
-[ ]  Learning path suggestions
-[ ]  Knowledge graph generation
-
+- [x]  Speech recognition with OpenAI Whisper
+- [x]  Multiple learning modes (standard, quiz, challenge)
+- [x]  Text input option
+- [x]  Basic session transcripts
+- [x]  Session reports
+- [x]  Real-time audio level indicator
+- [ ]  Visual concept mapping
+- [ ]  Terminal UI with rich formatting
+- [ ]  Web interface
+- [ ]  Export to different formats
+- [ ]  Learning path suggestions
+- [ ]  Knowledge graph generation
