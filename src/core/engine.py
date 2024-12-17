@@ -22,7 +22,7 @@ class FeynEngine:
         self.report_generator = ReportGenerator() if generate_report else None
 
     def run(self):
-        print(f"\nStarting Feyn session on topic: {self.mode.topic} in {self.mode.mode_type} mode")
+        print(f"\nStarting Feyn session on topic: {self.mode.topic} in {self.mode.mode_type.name} mode")
 
         try:
             self._run_session_loop()

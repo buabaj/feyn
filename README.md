@@ -6,6 +6,10 @@ Learn anything using the Feynman Technique, but with an LLM. Bootstrapped by [St
 
 Feyn is a command-line tool that helps you learn and understand concepts deeply using the Feynman Technique - the practice of learning by teaching. It uses AI to simulate a dynamic learning session where you explain concepts aloud or in text, and the LLM, Feyn, asks targeted questions to identify and fill gaps in your understanding.
 
+## Design
+
+![Feyn Workflow Diagram](design.png)
+
 ## Features
 
 - **Speech Recognition**: Explain concepts naturally through speech using OpenAI's Whisper
@@ -48,6 +52,8 @@ echo OPENAI_API_KEY='your-api-key-here' > .env
 - `-r, --report`: Generate a session report
 
 ## Usage
+
+![Feyn Usage](usage.png)
 
 Basic usage with speech input:
 
